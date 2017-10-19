@@ -4,3 +4,5 @@
 ### wxml parser
 1. [wxml parser](https://github.com/seanlong/wxml-parser)
 
+### 经验
+1. [小程序开发的一些经验](https://zhuanlan.zhihu.com/p/25126957)
